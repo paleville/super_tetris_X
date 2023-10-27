@@ -1,0 +1,24 @@
+﻿  actualGame.cpp
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\actualGame.h(44,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\actualGame.cpp(66,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\actualGame.cpp(96,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\actualGame.cpp(217,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\actualGame.cpp(303,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\actualGame.cpp(303,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\actualGame.cpp(307,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\actualGame.cpp(307,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\actualGame.cpp(367,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\actualGame.cpp(367,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  buttonClass.cpp
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\actualGame.h(44,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  introSplash.cpp
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\actualGame.h(44,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\actualGame.h(44,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\main.cpp(8,20): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  mainMenuClass.cpp
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\actualGame.h(44,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  windowManager.cpp
+C:\Users\AcerPredatorPC\Desktop\pinksnake\pinksnake\actualGame.h(44,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  pinksnake.vcxproj -> C:\Users\AcerPredatorPC\Desktop\pinksnake\Debug\pinksnake.exe
